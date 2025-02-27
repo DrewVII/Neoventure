@@ -29,16 +29,23 @@ Neoventure est un site de booking de résidences. Il permet à l'utilisateur d'e
 
 ## Illustrations
 
+**Accueil**
 ![Image de la page d'accueil](./public/images/home.png)
 
+**Propriétés**
 ![Image de la page de réservation disponible](./public/images/properties.png)
 
+**Bookings**
 ![Image de la page de booking](./public/images/bookings.png)
 
+**Connexion**
 ![Image de la page de connexion](./public/images/connexion.png)
 
+**Inscription**
 ![Image de la page d'inscription](./public/images/inscription.png)
 
+**Profil**
 ![Image de la page de profil](./public/images/profil.png)
 
+**Admin**
 ![Image de la page de gestion des résidences](./public/images/admin.png)
